@@ -27,5 +27,5 @@ class Config(object):
     OWNER = "https://t.me/flamexmaster"
     # Thumbnail image ka URL
     THUMB_URL = "https://telegra.ph/file/example-thumb-image.jpg" #Replace by with your Thumb URL
-    PREMIUM_LOGS = "-1002357780672"
+    PREMIUM_LOGS = -1002357780672
     
