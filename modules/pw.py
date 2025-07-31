@@ -4,7 +4,7 @@ from pyrogram import Client, filters
 import requests, os, sys, re
 import math
 import json, asyncio
-from config import PREMIUM_LOGS
+
 import subprocess
 import datetime
 from Extractor import app
