@@ -7,7 +7,7 @@ import json, asyncio
 
 import subprocess
 import datetime
-from Extractor import app
+
 from pyrogram import filters
 from subprocess import getstatusoutput
 log_channel = PREMIUM_LOGS
