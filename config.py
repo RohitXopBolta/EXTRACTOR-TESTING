@@ -2,10 +2,10 @@ import os
 
 class Config(object):
     # Telegram Bot ka token
-    BOT_TOKEN = "8424131216:AAFlbgcTuXMTMH1trBh9DBAxvkbR02mP3hE"
+    BOT_TOKEN = "7124775629:AAE9eMf1zeapu0SMsjQ6YGl60xUA58Txy5Y"
     # Telegram API ki ID
-    API_ID = 17573628
-    API_HASH = "4ee011af9f783e678a466460fbeae111"
+    API_ID = 21623728
+    API_HASH = "68841bec35e89a4056ccc8b8d64c0ddd"
     ADMIN_ID = [7082758190]
     # MongoDB database ka URL
     DB_URL = "mongodb+srv://hshssdf88:hshssdf88@cluster0.cujuzaz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
